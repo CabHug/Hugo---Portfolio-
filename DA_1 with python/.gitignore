@@ -1,0 +1,14 @@
+# Archivos de Excel
+*.xls
+*.xlsx
+*.xlsm
+
+# Archivos CSV
+*.csv
+
+# Archivos comprimidos
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
